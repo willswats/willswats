@@ -1,2 +1,4 @@
-[![willswats GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=willswats&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![willswats GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=willswats&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+# William Watson
+
+![William Watson's GitHub stats](https://github-readme-stats.vercel.app/api?username=willswats&theme=catppuccin_mocha&hide_border=true&show_icons=true&hide_rank=true&include_all_commits=true&show=reviews)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willswats&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=10&hide=shaderlab,hlsl)
